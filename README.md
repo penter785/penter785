@@ -1,6 +1,11 @@
 <h1>Hi, I'm Elvis! </h1>
 
-  
+
+
+<h2>Certifications</h2>
+
+- [Professional Google Cybersecurity - Coursera](https://coursera.org/share/4c93d26ea42c00eed00e1887cb6e5ca4)
+-   
 <h2>Cybersecurity Projects</h2>
 - [SOC-LAB - Threat Hunting and Incident Response].(https://github.com/elvis-alves/SOC-LAB---Threat-Hunting-and-Incident-Response)
 - [Bachelor's Degree in Information Systems - Estácio de Sá University](https://consultadocumentosdigitais.estacio.br/curriculo/163.a5818acd93c4)
