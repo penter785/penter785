@@ -2,7 +2,7 @@
 
   
 <h2>Cybersecurity Projects</h2>
-- [SOC-LAB - Threat Hunting and Incident Response](https://github.com/elvis-alves/SOC-LAB---Threat-Hunting-and-Incident-Response)
+- [SOC-LAB - Threat Hunting and Incident Response].(https://github.com/elvis-alves/SOC-LAB---Threat-Hunting-and-Incident-Response)
 
 
 <h2>Certifications</h2>
